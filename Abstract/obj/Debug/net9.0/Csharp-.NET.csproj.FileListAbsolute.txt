@@ -1,0 +1,15 @@
+E:\GitHub\Csharp-.NET\Abstract\obj\Debug\net9.0\Csharp-.NET.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Csharp-.NET\Abstract\obj\Debug\net9.0\Csharp-.NET.AssemblyInfoInputs.cache
+E:\GitHub\Csharp-.NET\Abstract\obj\Debug\net9.0\Csharp-.NET.AssemblyInfo.cs
+E:\GitHub\Csharp-.NET\Abstract\obj\Debug\net9.0\Csharp-.NET.csproj.CoreCompileInputs.cache
+E:\GitHub\Csharp-.NET\Abstract\obj\Debug\net9.0\Csharp-.NET.sourcelink.json
+E:\GitHub\Csharp-.NET\Abstract\bin\Debug\net9.0\Csharp-.NET.exe
+E:\GitHub\Csharp-.NET\Abstract\bin\Debug\net9.0\Csharp-.NET.deps.json
+E:\GitHub\Csharp-.NET\Abstract\bin\Debug\net9.0\Csharp-.NET.runtimeconfig.json
+E:\GitHub\Csharp-.NET\Abstract\bin\Debug\net9.0\Csharp-.NET.dll
+E:\GitHub\Csharp-.NET\Abstract\bin\Debug\net9.0\Csharp-.NET.pdb
+E:\GitHub\Csharp-.NET\Abstract\obj\Debug\net9.0\Csharp-.NET.dll
+E:\GitHub\Csharp-.NET\Abstract\obj\Debug\net9.0\refint\Csharp-.NET.dll
+E:\GitHub\Csharp-.NET\Abstract\obj\Debug\net9.0\Csharp-.NET.pdb
+E:\GitHub\Csharp-.NET\Abstract\obj\Debug\net9.0\Csharp-.NET.genruntimeconfig.cache
+E:\GitHub\Csharp-.NET\Abstract\obj\Debug\net9.0\ref\Csharp-.NET.dll

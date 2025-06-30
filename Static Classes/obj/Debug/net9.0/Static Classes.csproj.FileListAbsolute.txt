@@ -1,0 +1,15 @@
+C:\GitHub\Csharp-.NET\Static Classes\obj\Debug\net9.0\Static Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\Static Classes\obj\Debug\net9.0\Static Classes.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\Static Classes\obj\Debug\net9.0\Static Classes.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\Static Classes\obj\Debug\net9.0\Static Classes.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\Static Classes\obj\Debug\net9.0\Static Classes.sourcelink.json
+C:\GitHub\Csharp-.NET\Static Classes\bin\Debug\net9.0\Static Classes.exe
+C:\GitHub\Csharp-.NET\Static Classes\bin\Debug\net9.0\Static Classes.deps.json
+C:\GitHub\Csharp-.NET\Static Classes\bin\Debug\net9.0\Static Classes.runtimeconfig.json
+C:\GitHub\Csharp-.NET\Static Classes\bin\Debug\net9.0\Static Classes.dll
+C:\GitHub\Csharp-.NET\Static Classes\bin\Debug\net9.0\Static Classes.pdb
+C:\GitHub\Csharp-.NET\Static Classes\obj\Debug\net9.0\Static Classes.dll
+C:\GitHub\Csharp-.NET\Static Classes\obj\Debug\net9.0\refint\Static Classes.dll
+C:\GitHub\Csharp-.NET\Static Classes\obj\Debug\net9.0\Static Classes.pdb
+C:\GitHub\Csharp-.NET\Static Classes\obj\Debug\net9.0\Static Classes.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\Static Classes\obj\Debug\net9.0\ref\Static Classes.dll

@@ -1,0 +1,15 @@
+C:\GitHub\Csharp-.NET\PartialClass\obj\Debug\net9.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\PartialClass\obj\Debug\net9.0\PartialClass.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\PartialClass\obj\Debug\net9.0\PartialClass.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\PartialClass\obj\Debug\net9.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\PartialClass\obj\Debug\net9.0\PartialClass.sourcelink.json
+C:\GitHub\Csharp-.NET\PartialClass\bin\Debug\net9.0\PartialClass.exe
+C:\GitHub\Csharp-.NET\PartialClass\bin\Debug\net9.0\PartialClass.deps.json
+C:\GitHub\Csharp-.NET\PartialClass\bin\Debug\net9.0\PartialClass.runtimeconfig.json
+C:\GitHub\Csharp-.NET\PartialClass\bin\Debug\net9.0\PartialClass.dll
+C:\GitHub\Csharp-.NET\PartialClass\bin\Debug\net9.0\PartialClass.pdb
+C:\GitHub\Csharp-.NET\PartialClass\obj\Debug\net9.0\PartialClass.dll
+C:\GitHub\Csharp-.NET\PartialClass\obj\Debug\net9.0\refint\PartialClass.dll
+C:\GitHub\Csharp-.NET\PartialClass\obj\Debug\net9.0\PartialClass.pdb
+C:\GitHub\Csharp-.NET\PartialClass\obj\Debug\net9.0\PartialClass.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\PartialClass\obj\Debug\net9.0\ref\PartialClass.dll

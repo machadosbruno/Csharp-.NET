@@ -1,0 +1,15 @@
+C:\GitHub\Csharp-.NET\LambdaExpression\obj\Debug\net9.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\LambdaExpression\obj\Debug\net9.0\LambdaExpression.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\LambdaExpression\obj\Debug\net9.0\LambdaExpression.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\LambdaExpression\obj\Debug\net9.0\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\LambdaExpression\obj\Debug\net9.0\LambdaExpression.sourcelink.json
+C:\GitHub\Csharp-.NET\LambdaExpression\bin\Debug\net9.0\LambdaExpression.exe
+C:\GitHub\Csharp-.NET\LambdaExpression\bin\Debug\net9.0\LambdaExpression.deps.json
+C:\GitHub\Csharp-.NET\LambdaExpression\bin\Debug\net9.0\LambdaExpression.runtimeconfig.json
+C:\GitHub\Csharp-.NET\LambdaExpression\bin\Debug\net9.0\LambdaExpression.dll
+C:\GitHub\Csharp-.NET\LambdaExpression\bin\Debug\net9.0\LambdaExpression.pdb
+C:\GitHub\Csharp-.NET\LambdaExpression\obj\Debug\net9.0\LambdaExpression.dll
+C:\GitHub\Csharp-.NET\LambdaExpression\obj\Debug\net9.0\refint\LambdaExpression.dll
+C:\GitHub\Csharp-.NET\LambdaExpression\obj\Debug\net9.0\LambdaExpression.pdb
+C:\GitHub\Csharp-.NET\LambdaExpression\obj\Debug\net9.0\LambdaExpression.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\LambdaExpression\obj\Debug\net9.0\ref\LambdaExpression.dll

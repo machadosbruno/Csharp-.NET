@@ -1,0 +1,15 @@
+C:\GitHub\Csharp-.NET\EventsExample\obj\Debug\net9.0\EventsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\EventsExample\obj\Debug\net9.0\EventsExample.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\EventsExample\obj\Debug\net9.0\EventsExample.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\EventsExample\obj\Debug\net9.0\EventsExample.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\EventsExample\obj\Debug\net9.0\EventsExample.sourcelink.json
+C:\GitHub\Csharp-.NET\EventsExample\bin\Debug\net9.0\EventsExample.exe
+C:\GitHub\Csharp-.NET\EventsExample\bin\Debug\net9.0\EventsExample.deps.json
+C:\GitHub\Csharp-.NET\EventsExample\bin\Debug\net9.0\EventsExample.runtimeconfig.json
+C:\GitHub\Csharp-.NET\EventsExample\bin\Debug\net9.0\EventsExample.dll
+C:\GitHub\Csharp-.NET\EventsExample\bin\Debug\net9.0\EventsExample.pdb
+C:\GitHub\Csharp-.NET\EventsExample\obj\Debug\net9.0\EventsExample.dll
+C:\GitHub\Csharp-.NET\EventsExample\obj\Debug\net9.0\refint\EventsExample.dll
+C:\GitHub\Csharp-.NET\EventsExample\obj\Debug\net9.0\EventsExample.pdb
+C:\GitHub\Csharp-.NET\EventsExample\obj\Debug\net9.0\EventsExample.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\EventsExample\obj\Debug\net9.0\ref\EventsExample.dll

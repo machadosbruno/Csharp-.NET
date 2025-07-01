@@ -1,0 +1,15 @@
+C:\GitHub\Csharp-.NET\Indexer\obj\Debug\net9.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\Indexer\obj\Debug\net9.0\Indexer.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\Indexer\obj\Debug\net9.0\Indexer.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\Indexer\obj\Debug\net9.0\Indexer.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\Indexer\obj\Debug\net9.0\Indexer.sourcelink.json
+C:\GitHub\Csharp-.NET\Indexer\bin\Debug\net9.0\Indexer.exe
+C:\GitHub\Csharp-.NET\Indexer\bin\Debug\net9.0\Indexer.deps.json
+C:\GitHub\Csharp-.NET\Indexer\bin\Debug\net9.0\Indexer.runtimeconfig.json
+C:\GitHub\Csharp-.NET\Indexer\bin\Debug\net9.0\Indexer.dll
+C:\GitHub\Csharp-.NET\Indexer\bin\Debug\net9.0\Indexer.pdb
+C:\GitHub\Csharp-.NET\Indexer\obj\Debug\net9.0\Indexer.dll
+C:\GitHub\Csharp-.NET\Indexer\obj\Debug\net9.0\refint\Indexer.dll
+C:\GitHub\Csharp-.NET\Indexer\obj\Debug\net9.0\Indexer.pdb
+C:\GitHub\Csharp-.NET\Indexer\obj\Debug\net9.0\Indexer.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\Indexer\obj\Debug\net9.0\ref\Indexer.dll

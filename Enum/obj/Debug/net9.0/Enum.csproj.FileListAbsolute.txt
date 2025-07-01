@@ -1,0 +1,15 @@
+C:\GitHub\Csharp-.NET\Enum\bin\Debug\net9.0\Enum.exe
+C:\GitHub\Csharp-.NET\Enum\bin\Debug\net9.0\Enum.deps.json
+C:\GitHub\Csharp-.NET\Enum\bin\Debug\net9.0\Enum.runtimeconfig.json
+C:\GitHub\Csharp-.NET\Enum\bin\Debug\net9.0\Enum.dll
+C:\GitHub\Csharp-.NET\Enum\bin\Debug\net9.0\Enum.pdb
+C:\GitHub\Csharp-.NET\Enum\obj\Debug\net9.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\Enum\obj\Debug\net9.0\Enum.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\Enum\obj\Debug\net9.0\Enum.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\Enum\obj\Debug\net9.0\Enum.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\Enum\obj\Debug\net9.0\Enum.sourcelink.json
+C:\GitHub\Csharp-.NET\Enum\obj\Debug\net9.0\Enum.dll
+C:\GitHub\Csharp-.NET\Enum\obj\Debug\net9.0\refint\Enum.dll
+C:\GitHub\Csharp-.NET\Enum\obj\Debug\net9.0\Enum.pdb
+C:\GitHub\Csharp-.NET\Enum\obj\Debug\net9.0\Enum.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\Enum\obj\Debug\net9.0\ref\Enum.dll

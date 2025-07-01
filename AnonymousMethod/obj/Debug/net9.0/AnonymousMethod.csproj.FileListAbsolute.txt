@@ -1,0 +1,15 @@
+C:\GitHub\Csharp-.NET\AnonymousMethod\bin\Debug\net9.0\AnonymousMethod.exe
+C:\GitHub\Csharp-.NET\AnonymousMethod\bin\Debug\net9.0\AnonymousMethod.deps.json
+C:\GitHub\Csharp-.NET\AnonymousMethod\bin\Debug\net9.0\AnonymousMethod.runtimeconfig.json
+C:\GitHub\Csharp-.NET\AnonymousMethod\bin\Debug\net9.0\AnonymousMethod.dll
+C:\GitHub\Csharp-.NET\AnonymousMethod\bin\Debug\net9.0\AnonymousMethod.pdb
+C:\GitHub\Csharp-.NET\AnonymousMethod\obj\Debug\net9.0\AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\AnonymousMethod\obj\Debug\net9.0\AnonymousMethod.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\AnonymousMethod\obj\Debug\net9.0\AnonymousMethod.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\AnonymousMethod\obj\Debug\net9.0\AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\AnonymousMethod\obj\Debug\net9.0\AnonymousMethod.sourcelink.json
+C:\GitHub\Csharp-.NET\AnonymousMethod\obj\Debug\net9.0\AnonymousMethod.dll
+C:\GitHub\Csharp-.NET\AnonymousMethod\obj\Debug\net9.0\refint\AnonymousMethod.dll
+C:\GitHub\Csharp-.NET\AnonymousMethod\obj\Debug\net9.0\AnonymousMethod.pdb
+C:\GitHub\Csharp-.NET\AnonymousMethod\obj\Debug\net9.0\AnonymousMethod.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\AnonymousMethod\obj\Debug\net9.0\ref\AnonymousMethod.dll

@@ -1,0 +1,15 @@
+C:\GitHub\Csharp-.NET\AnonymousType\bin\Debug\net9.0\AnonymousType.exe
+C:\GitHub\Csharp-.NET\AnonymousType\bin\Debug\net9.0\AnonymousType.deps.json
+C:\GitHub\Csharp-.NET\AnonymousType\bin\Debug\net9.0\AnonymousType.runtimeconfig.json
+C:\GitHub\Csharp-.NET\AnonymousType\bin\Debug\net9.0\AnonymousType.dll
+C:\GitHub\Csharp-.NET\AnonymousType\bin\Debug\net9.0\AnonymousType.pdb
+C:\GitHub\Csharp-.NET\AnonymousType\obj\Debug\net9.0\AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\AnonymousType\obj\Debug\net9.0\AnonymousType.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\AnonymousType\obj\Debug\net9.0\AnonymousType.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\AnonymousType\obj\Debug\net9.0\AnonymousType.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\AnonymousType\obj\Debug\net9.0\AnonymousType.sourcelink.json
+C:\GitHub\Csharp-.NET\AnonymousType\obj\Debug\net9.0\AnonymousType.dll
+C:\GitHub\Csharp-.NET\AnonymousType\obj\Debug\net9.0\refint\AnonymousType.dll
+C:\GitHub\Csharp-.NET\AnonymousType\obj\Debug\net9.0\AnonymousType.pdb
+C:\GitHub\Csharp-.NET\AnonymousType\obj\Debug\net9.0\AnonymousType.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\AnonymousType\obj\Debug\net9.0\ref\AnonymousType.dll

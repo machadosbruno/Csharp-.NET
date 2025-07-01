@@ -1,0 +1,15 @@
+C:\GitHub\Csharp-.NET\User\obj\Debug\net9.0\User.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\User\obj\Debug\net9.0\User.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\User\obj\Debug\net9.0\User.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\User\obj\Debug\net9.0\User.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\User\obj\Debug\net9.0\User.sourcelink.json
+C:\GitHub\Csharp-.NET\User\bin\Debug\net9.0\User.exe
+C:\GitHub\Csharp-.NET\User\bin\Debug\net9.0\User.deps.json
+C:\GitHub\Csharp-.NET\User\bin\Debug\net9.0\User.runtimeconfig.json
+C:\GitHub\Csharp-.NET\User\bin\Debug\net9.0\User.dll
+C:\GitHub\Csharp-.NET\User\bin\Debug\net9.0\User.pdb
+C:\GitHub\Csharp-.NET\User\obj\Debug\net9.0\User.dll
+C:\GitHub\Csharp-.NET\User\obj\Debug\net9.0\refint\User.dll
+C:\GitHub\Csharp-.NET\User\obj\Debug\net9.0\User.pdb
+C:\GitHub\Csharp-.NET\User\obj\Debug\net9.0\User.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\User\obj\Debug\net9.0\ref\User.dll

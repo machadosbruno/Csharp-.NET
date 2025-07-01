@@ -1,0 +1,15 @@
+C:\GitHub\Csharp-.NET\DelegateExample\obj\Debug\net9.0\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\DelegateExample\obj\Debug\net9.0\DelegateExample.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\DelegateExample\obj\Debug\net9.0\DelegateExample.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\DelegateExample\obj\Debug\net9.0\DelegateExample.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\DelegateExample\obj\Debug\net9.0\DelegateExample.sourcelink.json
+C:\GitHub\Csharp-.NET\DelegateExample\bin\Debug\net9.0\DelegateExample.exe
+C:\GitHub\Csharp-.NET\DelegateExample\bin\Debug\net9.0\DelegateExample.deps.json
+C:\GitHub\Csharp-.NET\DelegateExample\bin\Debug\net9.0\DelegateExample.runtimeconfig.json
+C:\GitHub\Csharp-.NET\DelegateExample\bin\Debug\net9.0\DelegateExample.dll
+C:\GitHub\Csharp-.NET\DelegateExample\bin\Debug\net9.0\DelegateExample.pdb
+C:\GitHub\Csharp-.NET\DelegateExample\obj\Debug\net9.0\DelegateExample.dll
+C:\GitHub\Csharp-.NET\DelegateExample\obj\Debug\net9.0\refint\DelegateExample.dll
+C:\GitHub\Csharp-.NET\DelegateExample\obj\Debug\net9.0\DelegateExample.pdb
+C:\GitHub\Csharp-.NET\DelegateExample\obj\Debug\net9.0\DelegateExample.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\DelegateExample\obj\Debug\net9.0\ref\DelegateExample.dll

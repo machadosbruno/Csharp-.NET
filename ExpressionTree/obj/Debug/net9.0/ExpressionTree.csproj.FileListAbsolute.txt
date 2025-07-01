@@ -1,0 +1,15 @@
+C:\GitHub\Csharp-.NET\ExpressionTree\obj\Debug\net9.0\ExpressionTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\ExpressionTree\obj\Debug\net9.0\ExpressionTree.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\ExpressionTree\obj\Debug\net9.0\ExpressionTree.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\ExpressionTree\obj\Debug\net9.0\ExpressionTree.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\ExpressionTree\obj\Debug\net9.0\ExpressionTree.sourcelink.json
+C:\GitHub\Csharp-.NET\ExpressionTree\bin\Debug\net9.0\ExpressionTree.exe
+C:\GitHub\Csharp-.NET\ExpressionTree\bin\Debug\net9.0\ExpressionTree.deps.json
+C:\GitHub\Csharp-.NET\ExpressionTree\bin\Debug\net9.0\ExpressionTree.runtimeconfig.json
+C:\GitHub\Csharp-.NET\ExpressionTree\bin\Debug\net9.0\ExpressionTree.dll
+C:\GitHub\Csharp-.NET\ExpressionTree\bin\Debug\net9.0\ExpressionTree.pdb
+C:\GitHub\Csharp-.NET\ExpressionTree\obj\Debug\net9.0\ExpressionTree.dll
+C:\GitHub\Csharp-.NET\ExpressionTree\obj\Debug\net9.0\refint\ExpressionTree.dll
+C:\GitHub\Csharp-.NET\ExpressionTree\obj\Debug\net9.0\ExpressionTree.pdb
+C:\GitHub\Csharp-.NET\ExpressionTree\obj\Debug\net9.0\ExpressionTree.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\ExpressionTree\obj\Debug\net9.0\ref\ExpressionTree.dll

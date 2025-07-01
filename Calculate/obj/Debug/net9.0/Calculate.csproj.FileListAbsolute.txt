@@ -1,0 +1,15 @@
+C:\GitHub\Csharp-.NET\Calculate\obj\Debug\net9.0\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\Calculate\obj\Debug\net9.0\Calculate.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\Calculate\obj\Debug\net9.0\Calculate.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\Calculate\obj\Debug\net9.0\Calculate.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\Calculate\obj\Debug\net9.0\Calculate.sourcelink.json
+C:\GitHub\Csharp-.NET\Calculate\bin\Debug\net9.0\Calculate.exe
+C:\GitHub\Csharp-.NET\Calculate\bin\Debug\net9.0\Calculate.deps.json
+C:\GitHub\Csharp-.NET\Calculate\bin\Debug\net9.0\Calculate.runtimeconfig.json
+C:\GitHub\Csharp-.NET\Calculate\bin\Debug\net9.0\Calculate.dll
+C:\GitHub\Csharp-.NET\Calculate\bin\Debug\net9.0\Calculate.pdb
+C:\GitHub\Csharp-.NET\Calculate\obj\Debug\net9.0\Calculate.dll
+C:\GitHub\Csharp-.NET\Calculate\obj\Debug\net9.0\refint\Calculate.dll
+C:\GitHub\Csharp-.NET\Calculate\obj\Debug\net9.0\Calculate.pdb
+C:\GitHub\Csharp-.NET\Calculate\obj\Debug\net9.0\Calculate.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\Calculate\obj\Debug\net9.0\ref\Calculate.dll

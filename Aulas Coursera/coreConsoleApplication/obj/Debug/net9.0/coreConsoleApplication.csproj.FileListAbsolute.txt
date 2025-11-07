@@ -12,3 +12,18 @@ E:\C#\coreConsoleApplication\obj\Debug\net9.0\refint\coreConsoleApplication.dll
 E:\C#\coreConsoleApplication\obj\Debug\net9.0\coreConsoleApplication.pdb
 E:\C#\coreConsoleApplication\obj\Debug\net9.0\coreConsoleApplication.genruntimeconfig.cache
 E:\C#\coreConsoleApplication\obj\Debug\net9.0\ref\coreConsoleApplication.dll
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\bin\Debug\net9.0\coreConsoleApplication.exe
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\bin\Debug\net9.0\coreConsoleApplication.deps.json
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\bin\Debug\net9.0\coreConsoleApplication.runtimeconfig.json
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\bin\Debug\net9.0\coreConsoleApplication.dll
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\bin\Debug\net9.0\coreConsoleApplication.pdb
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\obj\Debug\net9.0\coreConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\obj\Debug\net9.0\coreConsoleApplication.AssemblyInfoInputs.cache
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\obj\Debug\net9.0\coreConsoleApplication.AssemblyInfo.cs
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\obj\Debug\net9.0\coreConsoleApplication.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\obj\Debug\net9.0\coreConsoleApplication.sourcelink.json
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\obj\Debug\net9.0\coreConsoleApplication.dll
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\obj\Debug\net9.0\refint\coreConsoleApplication.dll
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\obj\Debug\net9.0\coreConsoleApplication.pdb
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\obj\Debug\net9.0\coreConsoleApplication.genruntimeconfig.cache
+C:\GitHub\Csharp-.NET\Aulas Coursera\CoreConsoleApplication\obj\Debug\net9.0\ref\coreConsoleApplication.dll
